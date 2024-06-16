@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "textrazor.api.key",
+  "type": "java.lang.String",
+  "description": "A description for 'textrazor.api.key'"
+}]}

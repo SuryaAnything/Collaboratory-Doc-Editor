@@ -1,0 +1,18 @@
+spring:
+  application:
+      name: editor
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      auto-index-creation: true
+      database: colaboratoryEditor
+
+server:
+  servlet:
+    context-path: /colab
+  port: 8081
+
+textrazor:
+  api:
+    key: #api key
