@@ -1,4 +1,4 @@
-# Colaboratory Document Editor
+# Collaboratory Document Editor
 
 This project is a Spring Boot application designed for collaborative document management. It provides secure user authentication, authorization, and manages documents stored in MongoDB. Additionally, it leverages the TextRazor API for advanced text analysis and summarization.
 
